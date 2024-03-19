@@ -88,11 +88,7 @@ jobs:
 
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
-<!-- 
-name: GitHub-Profile-3D-Contrib
 
 
 
