@@ -1,4 +1,4 @@
-[![MasterHead](https://ideacdn.net/idea/ct/82/myassets/blogs/programlama-dilleri-betik-diller.jpg?revision=1548267428)
+![MasterHead](https://ideacdn.net/idea/ct/82/myassets/blogs/programlama-dilleri-betik-diller.jpg?revision=1548267428)
 
 
 
