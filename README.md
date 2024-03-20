@@ -6,17 +6,17 @@
 <h1 align="center">Hi 👋, I'm Ali Gaffar TOKSOY</h1>
 <h3 align="center">HSD Campus Ambassador at @Huawei | AI & Data Science Engineer From Türkiye</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/CENGTOKSOY](github.com/CENGTOKSOY)
+👉🏼 👨‍💻 All of my projects are available at [github.com/CENGTOKSOY](github.com/CENGTOKSOY)
 
-- 📝 I regularly write articles on [https://www.aligaffartoksoy.com](https://www.aligaffartoksoy.com)
+👉🏼 📝 I regularly write articles on [https://www.aligaffartoksoy.com](https://www.aligaffartoksoy.com)
 
-- 💬 Ask me about **AI & Data Science**
+👉🏼 💬 Ask me about **AI & Data Science**
 
-- 📫 How to reach me **toksoyaligaffar@outlook.com**
+👉🏼 📫 How to reach me **toksoyaligaffar@outlook.com**
 
-- 📄 Know about my experiences [medium.com/@toksoyaligaffar linkedin.com/in/ali-gaffar-toksoy](medium.com/@toksoyaligaffar linkedin.com/in/ali-gaffar-toksoy)
+👉🏼 📄 Know about my experiences [medium.com/@toksoyaligaffar linkedin.com/in/ali-gaffar-toksoy](medium.com/@toksoyaligaffar linkedin.com/in/ali-gaffar-toksoy)
 
-- ⚡ Fun fact **I think I'm a fun nerd 😁**
+👉🏼 ⚡ Fun fact **I think I'm a fun nerd 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
