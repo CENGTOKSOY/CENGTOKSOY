@@ -7,7 +7,7 @@
   <a href="https://instagram.com/alitoksoy.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alitoksoy.x" height="30" width="40" /></a>
 <a href="https://dev.to/ali_gaffar_toksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ali_gaffar_toksoy" height="30" width="40" /></a>
 <a href="https://kaggle.com/alitoksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alitoksoy" height="30" width="40" /></a>
-  <a href="https://www.aligaffartoksoy.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alitoksoy" height="30" width="40" /></a>
+  <a href="https://www.aligaffartoksoy.com" target="blank"><img align="center" src="https://static.wixstatic.com/media/de4e38_474111d6994c4352904e26ed6d54e3b9~mv2.png/v1/fill/w_620,h_378,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AGT-2.png" alt="alitoksoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
