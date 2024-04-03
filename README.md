@@ -1,4 +1,4 @@
-<h3 align="center">HSD 💻Campus Ambassador at @Huawei | AI & Data Science Engineer💻</h3>
+<h3 align="center">💻HSD Campus Ambassador at @Huawei | AI & Data Science Engineer💻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
