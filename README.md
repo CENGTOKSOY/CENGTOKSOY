@@ -1,6 +1,6 @@
 <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&theme=midnight-purple&show_icons=true&count_private=true)"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KULLANICI-İSMİ&layout=compact&langs_count=8&theme=midnight-purple"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CENGTOKSOY&layout=compact&langs_count=8&theme=midnight-purple"/>
 </p>
 <h1 align="center">Ben 💻Ali Gaffar TOKSOY💻</h1>
 <h3 align="center">HSD Campus Ambassador at @Huawei | AI & Data Science Engineer</h3>
