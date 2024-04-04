@@ -1,4 +1,4 @@
-<h1 align="center">Ben 💻Ali Gaffar TOKSOY💻</h1>
+<h1 align="center">💻Ali Gaffar TOKSOY💻</h1>
 <h3 align="center">HSD Campus Ambassador at @Huawei | AI & Data Science Engineer</h3>
 
 - 🔭 I’m currently working on **TÜBİTAK Project**
