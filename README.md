@@ -30,7 +30,3 @@
 
  ![MasterHead](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
-<p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&theme=midnight-purple&show_icons=true&count_private=true)"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CENGTOKSOY&layout=compact&langs_count=8&theme=midnight-purple"/>
-</p>
