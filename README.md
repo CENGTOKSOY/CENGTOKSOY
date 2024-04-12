@@ -1,19 +1,5 @@
  ![MasterHead](https://camo.githubusercontent.com/a9762f46d9564dfcce31b525725789b71b9b1ebdd631c9b4c98fc36a3171f671/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f32642f66632f30313264666333333030383536663339656366616435636136383263316233372e676966)
 
-<h1 align="center">💻Ali Gaffar TOKSOY💻</h1>
-<h3 align="center">HSD Campus Ambassador at @Huawei | AI & Data Science Engineer</h3>
-
-- 🔭 I’m currently working on **TÜBİTAK Project**
-
-- 🌱 I’m currently learning **AI & Data Science**
-
-- 👨‍💻 All of my projects are available at [https://github.com/CENGTOKSOY](https://github.com/CENGTOKSOY)
-
-- 📝 I regularly write articles on [https://medium.com/@toksoyaligaffar](https://medium.com/@toksoyaligaffar)
-
-- 📫 How to reach me **toksoyaligaffar@gmail.com**
-
-- 📄 Know about my experiences [https://www.aligaffartoksoy.com/hakkında](https://www.aligaffartoksoy.com/hakkında)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
