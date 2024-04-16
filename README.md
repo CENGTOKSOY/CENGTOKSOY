@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.pinimg.com/originals/2a/75/10/2a751083dcec21bbbcfba6af3b0eb57d.gif" alt="Home_CENGTOKSOY">
+    <img src="https://img1.picmix.com/output/stamp/thumb/1/6/6/3/3661_8e3d7.gif" alt="Home_CENGTOKSOY">
 </p>
 
 <h1 align="center">💻Ali Gaffar TOKSOY💻</h1>
