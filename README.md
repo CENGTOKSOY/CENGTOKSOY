@@ -34,7 +34,9 @@
     <img src="https://amh451.github.io/streetfighters.gif" alt="Street Fighters Gif">
 </div>
 
-
+<p align="center">
+    <img src="https://amh451.github.io/streetfighters.gif" alt="Street Fighters Gif">
+</p>
  
 <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&theme=midnight-purple&show_icons=true&count_private=true)"/>
