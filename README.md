@@ -30,9 +30,9 @@
 
  ![MasterHead](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
-<div class="gif-container">
-    <img src="https://amh451.github.io/streetfighters.gif" alt="Street Fighters Gif">
-</div>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake_GitHub">
+</p>
 
 <p align="center">
     <img src="https://amh451.github.io/streetfighters.gif" alt="Street Fighters Gif">
