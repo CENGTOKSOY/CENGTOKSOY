@@ -2,6 +2,7 @@
     <img src="https://img1.picmix.com/output/stamp/thumb/1/6/6/3/3661_8e3d7.gif" <img src="https://i.gifer.com/origin/9c/9cb224a3cc156e25a2b1d5cb4ccd5a7a_w200.gif" alt="Home_CENGTOKSOY">
 </p>
 
+https://i.gifer.com/origin/9c/9cb224a3cc156e25a2b1d5cb4ccd5a7a_w200.gif
 <h1 align="center">💻Ali Gaffar TOKSOY💻</h1>
 <h3 align="center">HSD Campus Ambassador at @Huawei | AI & Data Science Engineer</h3>
 
