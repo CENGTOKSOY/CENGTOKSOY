@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.gifer.com/origin/92/92fee742dc7a3b5ae117ca8ca4bc5c07_w200.gif" alt="Home_CENGTOKSOY" width="400" height="400">
+    <img src="https://img1.picmix.com/output/stamp/thumb/1/6/6/3/3661_8e3d7.gif" alt="Home_CENGTOKSOY" width="400" height="400">
 </p>
 
 
