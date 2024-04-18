@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://i.gifer.com/origin/9c/9cb224a3cc156e25a2b1d5cb4ccd5a7a_w200.gif" <img src="" alt="Home_CENGTOKSOY">
+    <img src="https://i.gifer.com/origin/92/92fee742dc7a3b5ae117ca8ca4bc5c07_w200.gif" <img src="" alt="Home_CENGTOKSOY">
 </p>
 
-https://i.gifer.com/origin/9c/9cb224a3cc156e25a2b1d5cb4ccd5a7a_w200.gif
+
 <h1 align="center">💻Ali Gaffar TOKSOY💻</h1>
 <h3 align="center">HSD Campus Ambassador at @Huawei | AI & Data Science Engineer</h3>
 
