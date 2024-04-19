@@ -4,7 +4,7 @@
 
 <h1 align="center">💻Ali Gaffar TOKSOY💻</h1>
 <h3 align="center">HSD Campus Ambassador at @Huawei | AI & Data Science Engineer</h3>
-
+<p align="center">
 - 🔭 I’m currently working on **TÜBİTAK Project**
 
 - 🌱 I’m currently learning **AI & Data Science**
@@ -16,7 +16,7 @@
 - 📫 How to reach me **toksoyaligaffar@gmail.com**
 
 - 📄 Know about my experiences [https://www.aligaffartoksoy.com/hakkında](https://www.aligaffartoksoy.com/hakkında)
-
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
