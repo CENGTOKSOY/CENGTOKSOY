@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **TÜBİTAK Project**
 
 - 🌱 I’m currently learning **AI & Data Science**
-<p 
+
 - 👨‍💻 All of my projects are available at [https://github.com/CENGTOKSOY](https://github.com/CENGTOKSOY)
 
 - 📝 I regularly write articles on [https://medium.com/@toksoyaligaffar](https://medium.com/@toksoyaligaffar)
