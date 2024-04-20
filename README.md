@@ -23,7 +23,7 @@
 <p align="left">
 - 📄 Know about my experiences  <a href="https://www.aligaffartoksoy.com" target="blank"><img align="center" src="https://static.wixstatic.com/media/de4e38_474111d6994c4352904e26ed6d54e3b9~mv2.png/v1/fill/w_620,h_378,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AGT-2.png" alt="alitoksoy" height="30" width="40" /></a>
 </p>
-/h2>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
