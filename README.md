@@ -5,10 +5,11 @@
 <h1 align="center">💻Ali Gaffar TOKSOY💻</h1>
 <h3 align="center">HSD Campus Ambassador at @Huawei | AI & Data Science Engineer</h3>
 <p align="left">
+    <h2
 - 🔭 I’m currently working on TÜBİTAK Project
 </p>
 <p align="left">
-- 🌱 I’m currently learning <h2 AI & Data Science /h2>
+- 🌱 I’m currently learning  AI & Data Science 
 </p>
 <p align="left">
 - 👨‍💻 All of my projects are available at <a href="https://github.com/CENGTOKSOY" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CENGTOKSOY" height="30" width="40" /></a>
@@ -17,12 +18,12 @@
 - 📝 I regularly write articles on <a href="https://medium.com/@toksoyaligaffar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@toksoyaligaffar" height="30" width="40" /></a>
 </p>
 <p align="left">
-- 📫 How to reach me **toksoyaligaffar@gmail.com**
+- 📫 How to reach me <a href="toksoyaligaffar@gmail.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="toksoyaligaffar@gmail.com" height="30" width="40" /></a>
 </p>
 <p align="left">
 - 📄 Know about my experiences  <a href="https://www.aligaffartoksoy.com" target="blank"><img align="center" src="https://static.wixstatic.com/media/de4e38_474111d6994c4352904e26ed6d54e3b9~mv2.png/v1/fill/w_620,h_378,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AGT-2.png" alt="alitoksoy" height="30" width="40" /></a>
 </p>
-
+/h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
