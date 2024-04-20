@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/CENGTOKSOY](https://github.com/CENGTOKSOY)
 </p>
 <p align="left">
-- 📝 I regularly write articles on [https://medium.com/@toksoyaligaffar](https://medium.com/@toksoyaligaffar)
+- 📝 I regularly write articles on [https://medium.com/@toksoyaligaffar](https://medium.com/@toksoyaligaffar)  <a href="https://medium.com/@toksoyaligaffar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@toksoyaligaffar" height="30" width="40" /></a>
 </p>
 <p align="left">
 - 📫 How to reach me **toksoyaligaffar@gmail.com**
