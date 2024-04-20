@@ -5,10 +5,10 @@
 <h1 align="center">💻Ali Gaffar TOKSOY💻</h1>
 <h3 align="center">HSD Campus Ambassador at @Huawei | AI & Data Science Engineer</h3>
 <p align="left">
-- 🔭 I’m currently working on **TÜBİTAK Project**
+- 🔭 I’m currently working on TÜBİTAK Project
 </p>
 <p align="left">
-- 🌱 I’m currently learning **AI & Data Science**
+- 🌱 I’m currently learning <h2 AI & Data Science /h2>
 </p>
 <p align="left">
 - 👨‍💻 All of my projects are available at <a href="https://github.com/CENGTOKSOY" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CENGTOKSOY" height="30" width="40" /></a>
