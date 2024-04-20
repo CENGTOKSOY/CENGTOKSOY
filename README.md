@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **AI & Data Science**
 </p>
 <p align="left">
-- 👨‍💻 All of my projects are available at <a href="https://github.com/CENGTOKSOY" <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CENGTOKSOY" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/CENGTOKSOY" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CENGTOKSOY" height="30" width="40" /></a>
 </p>
 <p align="left">
 - 📝 I regularly write articles on <a href="https://medium.com/@toksoyaligaffar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@toksoyaligaffar" height="30" width="40" /></a>
