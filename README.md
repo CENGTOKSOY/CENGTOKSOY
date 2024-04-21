@@ -42,7 +42,7 @@
     <img src="https://img1.picmix.com/output/stamp/thumb/9/5/3/7/667359_ff9e6.gif" alt="Home_CENGTOKSOY" width="300" height="200">
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake_GitHub">
 </p>
 
