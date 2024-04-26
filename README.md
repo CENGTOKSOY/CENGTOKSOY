@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://img1.picmix.com/output/stamp/thumb/1/6/6/3/3661_8e3d7.gif" alt="Home_CENGTOKSOY" width="400" height="400">
+</p>
 
 <h1 align="center">💻Ali Gaffar TOKSOY💻</h1>
 <h3 align="center">HSD Campus Ambassador at @Huawei | AI & Data Science Engineer</h3>
