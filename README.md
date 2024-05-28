@@ -63,9 +63,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
 <p align="center">
-  <img height="150" width="150" src="https://drive.google.com/file/d/1_73Zd-uUE5E2EoUpRTnDoAw92KO9Nj5S/view">
+  <img height="150" width="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAf13KQ032krKUDx6BFm6n6PpQ95KYDq3teL0sSkk56WIQ_8Gx43ko-bBC3BFRn0gwFwVpv1wO03cMBNhJ8k2kgdFGl4V9ejnLBKrsu82Tmz9icD2c6lWGQNEDRgqmUTcC-RYT0x5-V9o/s1600/Thor+gif+9.gif">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CENGTOKSOY&theme=dark&background=000000"/>
-  <img height="150" width="150" src="https://drive.google.com/file/d/1WqS0N0OCnYMSQcVYjbkCjSuplZ5uYu-x/view">
+  <img height="150" width="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAf13KQ032krKUDx6BFm6n6PpQ95KYDq3teL0sSkk56WIQ_8Gx43ko-bBC3BFRn0gwFwVpv1wO03cMBNhJ8k2kgdFGl4V9ejnLBKrsu82Tmz9icD2c6lWGQNEDRgqmUTcC-RYT0x5-V9o/s1600/Thor+gif+9.gif">
 </p>
 
 
