@@ -55,13 +55,13 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&theme=midnight-purple&show_icons=true&count_private=true)"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CENGTOKSOY&layout=compact&langs_count=8&theme=midnight-purple"/>
 </p>
-
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
-
-
 <p align="center">
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
  </p>
+
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
