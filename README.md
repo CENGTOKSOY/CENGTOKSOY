@@ -67,7 +67,7 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CENGTOKSOY&theme=dark&background=000000"/>
   <img height="150" width="150" src="https://drive.google.com/file/d/1WqS0N0OCnYMSQcVYjbkCjSuplZ5uYu-x/view">
 </p>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CENGTOKSOY&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
 
 
 
