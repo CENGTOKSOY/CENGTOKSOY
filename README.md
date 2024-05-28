@@ -55,9 +55,6 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&theme=midnight-purple&show_icons=true&count_private=true)"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CENGTOKSOY&layout=compact&langs_count=8&theme=midnight-purple"/>
 </p>
-<p align="center">
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
- </p>
 
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
@@ -66,9 +63,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
+  <img height="150" width="150" src="https://drive.google.com/file/d/1_73Zd-uUE5E2EoUpRTnDoAw92KO9Nj5S/view">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CENGTOKSOY&theme=dark&background=000000"/>
-  <img height="150" width="150" src="WEBP/right.webp">
+  <img height="150" width="150" src="https://drive.google.com/file/d/1WqS0N0OCnYMSQcVYjbkCjSuplZ5uYu-x/view">
 </p>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CENGTOKSOY&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
