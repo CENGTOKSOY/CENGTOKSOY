@@ -65,8 +65,23 @@
 <p align="center">
   <img height="150" width="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAf13KQ032krKUDx6BFm6n6PpQ95KYDq3teL0sSkk56WIQ_8Gx43ko-bBC3BFRn0gwFwVpv1wO03cMBNhJ8k2kgdFGl4V9ejnLBKrsu82Tmz9icD2c6lWGQNEDRgqmUTcC-RYT0x5-V9o/s1600/Thor+gif+9.gif">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CENGTOKSOY&theme=dark&background=000000"/>
-  <img height="150" width="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAf13KQ032krKUDx6BFm6n6PpQ95KYDq3teL0sSkk56WIQ_8Gx43ko-bBC3BFRn0gwFwVpv1wO03cMBNhJ8k2kgdFGl4V9ejnLBKrsu82Tmz9icD2c6lWGQNEDRgqmUTcC-RYT0x5-V9o/s1600/Thor+gif+9.gif">
-</p>
+ <!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resmi 180 Derece Döndür</title>
+    <style>
+        .rotate-180 {
+            transform: rotate(180deg);
+        }
+    </style>
+</head>
+<body>
+    <img class="rotate-180" height="150" width="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAf13KQ032krKUDx6BFm6n6PpQ95KYDq3teL0sSkk56WIQ_8Gx43ko-bBC3BFRn0gwFwVpv1wO03cMBNhJ8k2kgdFGl4V9ejnLBKrsu82Tmz9icD2c6lWGQNEDRgqmUTcC-RYT0x5-V9o/s1600/Thor+gif+9.gif">
+</body>
+</html>
+
 
 
 
