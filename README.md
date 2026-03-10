@@ -117,7 +117,7 @@
 
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHM2NXlscWJjZTFwdm55eW43amhmbHZ0aHR1ZWwxZDl5cnZrYXQ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oMLJaPmbUnoC4/giphy.gif" alt="Home_CENGTOKSOY" width="1000" height="400">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHM2NXlscWJjZTFwdm55eW43amhmbHZ0aHR1ZWwxZDl5cnZrYXQ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oMLJaPmbUnoC4/giphy.gif" alt="Home_CENGTOKSOY" width="1000" height="650">
 </p>
 
 <p align="center">
