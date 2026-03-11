@@ -15,9 +15,9 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </div>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdpYmowc2QxbDE0MGI4bmx4cW5jeGxseDZhZXhtY2U1NWdjdjZjMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ROvT19V4hygmI/giphy.gif" alt="Home_CENGTOKSOY" width="800" height="500">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjcwMTB4bmZqOG42aXkwOHZubXBrYW13OWh6cW1kNnZyNzMyZ2h0ZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3o84suURd8yoYi2CbK/giphy.gif" alt="Home_CENGTOKSOY" width="800" height="500">
 </p>
-![My GitHub Game](game.gif)
+
 <p align="center">
 
 <a href="https://linkedin.com/in/ali-gaffar-toksoy">
@@ -36,6 +36,9 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/CENGTOKSOY)](https://github.com/CENGTOKSOY)
+![My GitHub Game](game.gif)
 
 <table>
 
@@ -160,7 +163,5 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CENGTOKSOY&theme=dark&background=000000"/>
   <img height="150" width="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAf13KQ032krKUDx6BFm6n6PpQ95KYDq3teL0sSkk56WIQ_8Gx43ko-bBC3BFRn0gwFwVpv1wO03cMBNhJ8k2kgdFGl4V9ejnLBKrsu82Tmz9icD2c6lWGQNEDRgqmUTcC-RYT0x5-V9o/s1600/Thor+gif+9.gif">
 </p>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/CENGTOKSOY)](https://github.com/CENGTOKSOY)
 
 
