@@ -25,7 +25,7 @@
 
 <!-- Programming Languages -->
 <tr>
-<td width="70%">
+<td width="80%">
 
 ### 💻 Programming Languages
 <p>
@@ -33,14 +33,14 @@
 </p>
 
 </td>
-<td width="30%">
+<td width="40%">
 <img src="https://i.pinimg.com/originals/73/70/e8/7370e8c51bfaefc02aa1c857c51fcee0.gif" width="200"/>
 </td>
 </tr>
 
 <!-- AI / ML -->
 <tr>
-<td width="70%">
+<td width="80%">
 
 ### 🤖 AI / Machine Learning
 <p>
@@ -48,14 +48,14 @@
 </p>
 
 </td>
-<td width="30%">
+<td width="40%">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTEydmFoNHRlcHBwczdvbTJrZ2pqMXk0bWxpMWd3dzRtYzhteGM2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AXorq76Tg3Vte/giphy.gif" width="200"/>
 </td>
 </tr>
 
 <!-- Cloud & DevOps -->
 <tr>
-<td width="70%">
+<td width="80%">
 
 ### ☁️ Cloud & DevOps
 <p>
@@ -63,14 +63,14 @@
 </p>
 
 </td>
-<td width="30%">
+<td width="40%">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk5cjJ0enlndzNhazZkMDF4Z3FhdXlqMHk5Y285Zmw1MHB1OGRrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200"/>
 </td>
 </tr>
 
 <!-- Databases -->
 <tr>
-<td width="70%">
+<td width="80%">
 
 ### 🗄 Databases
 <p>
@@ -78,14 +78,14 @@
 </p>
 
 </td>
-<td width="30%">
+<td width="40%">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRldGoxajcxdm5rdmh2dHg4b3dvdHo0bXRpazI1ZmNva3I2cnl2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sRFEa8lbeC7zbcIZZR/giphy.gif" width="200"/>
 </td>
 </tr>
 
 <!-- Backend Frameworks -->
 <tr>
-<td width="70%">
+<td width="80%">
 
 ### 🛠️ Backend Frameworks & Development Environments
 <p>
@@ -93,14 +93,14 @@
 </p>
 
 </td>
-<td width="30%">
+<td width="40%">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU1NzNydXVhODdtYjd4emloaThmN283eXYyYWp4eTc5aGQ4dm0zZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 </td>
 </tr>
 
 <!-- Tools & Platforms -->
 <tr>
-<td width="70%">
+<td width="80%">
 
 ### 🧰 Tools & Platforms
 <p>
@@ -108,7 +108,7 @@
 </p>
 
 </td>
-<td width="30%">
+<td width="40%">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVtczVvZ3BnZ21kYnhhNGRkNmdiZmxhZTFzYzJqdDN6a2NvbGxwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3xz2Bw12fe9iyG06v6/giphy.gif" width="200"/>
 </td>
 </tr>
