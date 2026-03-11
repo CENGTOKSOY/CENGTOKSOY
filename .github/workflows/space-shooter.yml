@@ -2,8 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Her gün gece yarısı (UTC) otomatik günceller
-  workflow_dispatch:     # İstediğin zaman manuel çalıştırmana olanak tanır
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
 
 permissions:
   contents: write
@@ -18,5 +18,5 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.gif'
-          username: 'CENGTOKSOY'
+          # write-dataurl-to: 'README.md'   # for dataurl generation.
           strategy: 'random'
