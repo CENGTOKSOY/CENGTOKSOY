@@ -1,3 +1,24 @@
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw4Ym9nY2hpaG91azdrMHB4NW9pbWdndTYzOGF2MGVocHZ3cmZ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSDYWQg89gUBtYkvtt/giphy.gif" width="250">
+</td>
+<td align="center">
+<h1> 👋🏼Hi, I'm Ali Gaffar Toksoy</h1>
+
+Computer Engineering Student | Cloud & DevOps Enthusiast | AI & Data Science Background
+
+Computer Engineering student passionate about Cloud, DevOps, and AI-driven systems.
+I enjoy building scalable solutions and intelligent applications by combining my background in Artificial Intelligence and Data Science.
+I have gained experience through programs and internships with Huawei and Microsoft, while also working as a Red Bull Student Marketeer.
+Additionally, I achieved 1st place in Turkey in a national-level competition, reflecting my motivation to create impactful and innovative technologies.
+
+
+</table>
+
+</div>
+
 <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdpYmowc2QxbDE0MGI4bmx4cW5jeGxseDZhZXhtY2U1NWdjdjZjMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ROvT19V4hygmI/giphy.gif" alt="Home_CENGTOKSOY" width="800" height="500">
 </p>
