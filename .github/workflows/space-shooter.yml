@@ -20,7 +20,7 @@ jobs:
             dist/space.svg
 
       - name: Push to repository
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: czl9707/gh-space-shooter@v1
         with:
           target_branch: output
           build_dir: dist
