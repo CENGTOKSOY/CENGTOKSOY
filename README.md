@@ -17,7 +17,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdpYmowc2QxbDE0MGI4bmx4cW5jeGxseDZhZXhtY2U1NWdjdjZjMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ROvT19V4hygmI/giphy.gif" alt="Home_CENGTOKSOY" width="800" height="500">
 </p>
-
+![My GitHub Game](game.gif)
 <p align="center">
 
 <a href="https://linkedin.com/in/ali-gaffar-toksoy">
@@ -163,4 +163,4 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/CENGTOKSOY)](https://github.com/CENGTOKSOY)
 
-![My GitHub Game](game.gif)
+
