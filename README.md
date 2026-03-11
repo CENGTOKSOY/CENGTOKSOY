@@ -1,10 +1,5 @@
 <div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw4Ym9nY2hpaG91azdrMHB4NW9pbWdndTYzOGF2MGVocHZ3cmZ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSDYWQg89gUBtYkvtt/giphy.gif" width="250">
-</td>
-<td align="center">
+
 <h1> 👋🏼Hi, I'm Ali Gaffar Toksoy</h1>
 
 Computer Engineering Student | Cloud & DevOps Enthusiast | AI & Data Science Background
@@ -15,7 +10,7 @@ I have gained experience through programs and internships with Huawei and Micros
 Additionally, I achieved 1st place in Turkey in a national-level competition, reflecting my motivation to create impactful and innovative technologies.
 
 
-</table>
+
 
 </div>
 
