@@ -159,9 +159,9 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 
 <p align="center">
-  <img height="300" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzYzZ1cTgzcjU3c2ZydGxmbXBiajIyeGpwaGRtdmE2b2VvaXRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8Uyz68JpozWve/giphy.gif">
+  <img height="230" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzYzZ1cTgzcjU3c2ZydGxmbXBiajIyeGpwaGRtdmE2b2VvaXRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8Uyz68JpozWve/giphy.gif">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CENGTOKSOY&theme=dark&background=000000"/>
-  <img height="200" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRib2x6ZWViZXBiZTF2M3V0NnQ0MGljNTQ5NXcxaTI5MDNwOGYxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e4dZcWPFtkhmKtmKIR/giphy.gif" style="transform: scaleX(-1);">
+  <img height="150" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRib2x6ZWViZXBiZTF2M3V0NnQ0MGljNTQ5NXcxaTI5MDNwOGYxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e4dZcWPFtkhmKtmKIR/giphy.gif" style="transform: scaleX(-1);">
 </p>
 
 
