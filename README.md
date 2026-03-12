@@ -15,7 +15,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </div>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjcwMTB4bmZqOG42aXkwOHZubXBrYW13OWh6cW1kNnZyNzMyZ2h0ZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3o84suURd8yoYi2CbK/giphy.gif" alt="Home_CENGTOKSOY" width="800" height="500">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djYwZjBwMTFsbDk0YmIyNjJxbDVsNXhxMmdsNTFtZjhzZzI0bWR5aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/YJ0fc1aqc1XiIY3IHp/giphy.gif" alt="Home_CENGTOKSOY" width="800" height="500">
 </p>
 
 <p align="center">
@@ -136,7 +136,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHM2NXlscWJjZTFwdm55eW43amhmbHZ0aHR1ZWwxZDl5cnZrYXQ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oMLJaPmbUnoC4/giphy.gif" alt="Home_CENGTOKSOY" width="1000" height="650">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnRyM2w3eGtxZnMxMWUzNGcwY2Y4Z3RwN2VkeGRybnlpbmMyZjV1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6IJobFNZtXbLeVH1os/giphy.gif" alt="Home_CENGTOKSOY" width="8000" height="550">
 </p>
 
 <p align="center">
@@ -144,7 +144,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </p>
 
 <p align="center">
-    <img src="https://amh451.github.io/streetfighters.gif" alt="Street Fighters Gif">
+    <img height="300" width="1500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Zuc25hMWdiMTA5cmpzNWdpcDdlZXFtN214dThkNGJwM252OXFlNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j5QUSpXVuwtr2/giphy.gif" alt="Street Fighters Gif">
 </p>
 
 ## 📊 GitHub Statistics
