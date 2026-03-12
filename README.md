@@ -53,7 +53,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 </td>
 <td width="40%">
-<img src="https://i.pinimg.com/originals/73/70/e8/7370e8c51bfaefc02aa1c857c51fcee0.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3ByeXVtOXc0N2dtbDJ0MHlkdzA3bnRtaWx6cDZiMmFyc3U2ODI4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ld77zD3fF3Run8olIt/giphy.gif" width="200"/>
 </td>
 </tr>
 
@@ -68,7 +68,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 </td>
 <td width="40%">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTEydmFoNHRlcHBwczdvbTJrZ2pqMXk0bWxpMWd3dzRtYzhteGM2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AXorq76Tg3Vte/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl2ZXRoOWZkNTE5YjFncW5odzU1b29mcmx4eHpjamR6Mnh0Y2Q3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzxW4TmEKgVZf2w/giphy.gif" width="200"/>
 </td>
 </tr>
 
@@ -83,7 +83,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 </td>
 <td width="40%">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk5cjJ0enlndzNhazZkMDF4Z3FhdXlqMHk5Y285Zmw1MHB1OGRrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGZ4dG5mcW9kbmx3MWF6ZTVjbHVqeGs2MXZjMGR3NHZmMG82dW5idCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HjeIqm3MxURFK/giphy.gif" width="200"/>
 </td>
 </tr>
 
@@ -98,7 +98,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 </td>
 <td width="40%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRldGoxajcxdm5rdmh2dHg4b3dvdHo0bXRpazI1ZmNva3I2cnl2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sRFEa8lbeC7zbcIZZR/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGh2em80ZHZmOW05OWc4c2Q1ODNnNWt1eWpnM2xtc3Y2cTk0bmgzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2JJEIMLgrXPEbDGM/giphy.gif" width="200"/>
 </td>
 </tr>
 
@@ -113,7 +113,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 </td>
 <td width="40%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU1NzNydXVhODdtYjd4emloaThmN283eXYyYWp4eTc5aGQ4dm0zZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3ByeXVtOXc0N2dtbDJ0MHlkdzA3bnRtaWx6cDZiMmFyc3U2ODI4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2JJKs3I69qfaQleE/giphy.gif" width="200"/>
 </td>
 </tr>
 
@@ -128,7 +128,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 </td>
 <td width="40%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVtczVvZ3BnZ21kYnhhNGRkNmdiZmxhZTFzYzJqdDN6a2NvbGxwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3xz2Bw12fe9iyG06v6/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWtla215c2Q5YzdrZzA5M2Vla2VldXV3NnR6OG52YnlsNzhxMDdlZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mZAL1GTRA8VnkRaU47/giphy.gif" width="200"/>
 </td>
 </tr>
 
@@ -141,10 +141,6 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" alt="Snake_GitHub" >
-</p>
-
-<p align="center">
-    <img height="500" width="800" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTZzbDdla25pcGJ0bWJya3oyOHRtbDFiaWh3NTFsbnc2Z3BvNzhidyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MeCibYxPW3DM4A8f8d/giphy.gif" alt="Street Fighters Gif">
 </p>
 
 ## 📊 GitHub Statistics
