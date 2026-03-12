@@ -144,7 +144,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </p>
 
 <p align="center">
-    <img height="300" width="1500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Zuc25hMWdiMTA5cmpzNWdpcDdlZXFtN214dThkNGJwM252OXFlNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j5QUSpXVuwtr2/giphy.gif" alt="Street Fighters Gif">
+    <img height="500" width="800" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTZzbDdla25pcGJ0bWJya3oyOHRtbDFiaWh3NTFsbnc2Z3BvNzhidyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MeCibYxPW3DM4A8f8d/giphy.gif" alt="Street Fighters Gif">
 </p>
 
 ## 📊 GitHub Statistics
@@ -159,9 +159,9 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 
 <p align="center">
-  <img height="150" width="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAf13KQ032krKUDx6BFm6n6PpQ95KYDq3teL0sSkk56WIQ_8Gx43ko-bBC3BFRn0gwFwVpv1wO03cMBNhJ8k2kgdFGl4V9ejnLBKrsu82Tmz9icD2c6lWGQNEDRgqmUTcC-RYT0x5-V9o/s1600/Thor+gif+9.gif">
+  <img height="300" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzYzZ1cTgzcjU3c2ZydGxmbXBiajIyeGpwaGRtdmE2b2VvaXRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8Uyz68JpozWve/giphy.gif">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CENGTOKSOY&theme=dark&background=000000"/>
-  <img height="150" width="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAf13KQ032krKUDx6BFm6n6PpQ95KYDq3teL0sSkk56WIQ_8Gx43ko-bBC3BFRn0gwFwVpv1wO03cMBNhJ8k2kgdFGl4V9ejnLBKrsu82Tmz9icD2c6lWGQNEDRgqmUTcC-RYT0x5-V9o/s1600/Thor+gif+9.gif">
+  <img height="200" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRib2x6ZWViZXBiZTF2M3V0NnQ0MGljNTQ5NXcxaTI5MDNwOGYxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e4dZcWPFtkhmKtmKIR/giphy.gif" style="transform: scaleX(-1);">
 </p>
 
 
