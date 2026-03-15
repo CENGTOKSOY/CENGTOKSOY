@@ -151,36 +151,41 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 ">
 
   <!-- Stats Container -->
-  <div style="
-    background: #0d1117; 
-    padding: 15px; 
-    border-radius: 12px; 
-    width: 400px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.4);
-  ">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true&theme=dark"
-      style="width: 100%; height: auto; border-radius: 8px;"
-    />
-  </div>
+<table align="center">
+  <tr>
+    <td>
+      <div style="
+        background: #0d1117; 
+        padding: 15px; 
+        border-radius: 12px; 
+        width: 400px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.4);
+        text-align: center;
+      ">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true&theme=dark"
+          style="width: 100%; height: auto; border-radius: 12px;"
+        />
+      </div>
+    </td>
+    <td>
+      <div style="
+        background: #0d1117; 
+        padding: 15px; 
+        border-radius: 10px; 
+        width: 400px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.4);
+        text-align: center;
+      ">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENGTOKSOY&layout=compact&theme=dark"
+          style="width: 140%; height: auto; border-radius: 12px;"
+        />
+      </div>
+    </td>
 
-  <!-- Languages Container -->
-  <div style="
-    background: #0d1117; 
-    padding: 15px; 
-    border-radius: 12px; 
-    width: 400px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.4);
-  ">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENGTOKSOY&layout=compact&theme=dark"
-      style="width: 100%; height: auto; border-radius: 8px;"
-    />
-  </div>
-
-</div>
-
-
+  </tr>
+</table>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
