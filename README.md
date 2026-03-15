@@ -143,19 +143,45 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
     <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" alt="Snake_GitHub" >
 </p>
 
-## 📊 GitHub Statistics
+<!-- GitHub Statistics -->
+<div align="center" style="
+  display: flex; 
+  justify-content: center; 
+  gap: 20px;
+">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true" />
-</picture>
+  <!-- Stats Container -->
+  <div style="
+    background: #0d1117; 
+    padding: 15px; 
+    border-radius: 12px; 
+    width: 400px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  ">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true&theme=dark"
+      style="width: 100%; height: auto; border-radius: 8px;"
+    />
+  </div>
+
+  <!-- Languages Container -->
+  <div style="
+    background: #0d1117; 
+    padding: 15px; 
+    border-radius: 12px; 
+    width: 400px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  ">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENGTOKSOY&layout=compact&theme=dark"
+      style="width: 100%; height: auto; border-radius: 8px;"
+    />
+  </div>
+
+</div>
+
+
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
@@ -163,7 +189,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 <p align="center">
   <img height="230" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzYzZ1cTgzcjU3c2ZydGxmbXBiajIyeGpwaGRtdmE2b2VvaXRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8Uyz68JpozWve/giphy.gif">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CENGTOKSOY&theme=dark&background=000000"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CENGTOKSOY&theme=whatsapp-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
   <img height="150" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRib2x6ZWViZXBiZTF2M3V0NnQ0MGljNTQ5NXcxaTI5MDNwOGYxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e4dZcWPFtkhmKtmKIR/giphy.gif" style="transform: scaleX(-1);">
 </p>
 
