@@ -145,10 +145,17 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub İstatistikleri" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENGTOKSOY&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" />
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true" />
+</picture>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
