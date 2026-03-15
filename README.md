@@ -144,48 +144,10 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </p>
 
 <!-- GitHub Statistics -->
-<div align="center" style="
-  display: flex; 
-  justify-content: center; 
-  gap: 20px;
-">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&theme=react&show_icons=true&hide_border=true&count_private=true" width="528" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENGTOKSOY&theme=react&show_icons=true&hide_border=true&layout=compact" width="400" />
+</div>
 
-  <!-- Stats Container -->
-<table align="center">
-  <tr>
-    <td>
-      <div style="
-        background: #0d1117; 
-        padding: 15px; 
-        border-radius: 12px; 
-        width: 400px;
-        box-shadow: 0 0 10px rgba(0,0,0,0.4);
-        text-align: center;
-      ">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&show_icons=true&theme=dark"
-          style="width: 100%; height: auto; border-radius: 12px;"
-        />
-      </div>
-    </td>
-    <td>
-      <div style="
-        background: #0d1117; 
-        padding: 15px; 
-        border-radius: 10px; 
-        width: 400px;
-        box-shadow: 0 0 10px rgba(0,0,0,0.4);
-        text-align: center;
-      ">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENGTOKSOY&layout=compact&theme=dark"
-          style="width: 140%; height: auto; border-radius: 12px;"
-        />
-      </div>
-    </td>
-
-  </tr>
-</table>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
@@ -194,7 +156,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 <p align="center">
   <img height="230" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzYzZ1cTgzcjU3c2ZydGxmbXBiajIyeGpwaGRtdmE2b2VvaXRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8Uyz68JpozWve/giphy.gif">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CENGTOKSOY&theme=whatsapp-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CENGTOKSOY&theme=react&hide_border=true" alt="GitHub Streak" /></a>
   <img height="150" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRib2x6ZWViZXBiZTF2M3V0NnQ0MGljNTQ5NXcxaTI5MDNwOGYxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e4dZcWPFtkhmKtmKIR/giphy.gif" style="transform: scaleX(-1);">
 </p>
 
