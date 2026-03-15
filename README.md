@@ -145,7 +145,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 <!-- GitHub Statistics -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&theme=react&show_icons=true&hide_border=true&count_private=true" width="528" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENGTOKSOY&theme=react&show_icons=true&hide_border=true&layout=compact" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&theme=react&show_icons=true&hide_border=true&count_private=true" width="451" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENGTOKSOY&theme=react&show_icons=true&hide_border=true&layout=compact" width="342" />
 </div>
 
 
