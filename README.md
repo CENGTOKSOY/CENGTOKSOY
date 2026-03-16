@@ -135,12 +135,6 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </table>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="800">
-</p>
-
-
-
-<p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnRyM2w3eGtxZnMxMWUzNGcwY2Y4Z3RwN2VkeGRybnlpbmMyZjV1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6IJobFNZtXbLeVH1os/giphy.gif" alt="Home_CENGTOKSOY" width="8000" height="550">
 </p>
 
