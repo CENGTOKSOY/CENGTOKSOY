@@ -127,7 +127,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </p>
 </td>
 
-![Isometric Commit Calendar](https://github.com/CENGTOKSOY/CENGTOKSOY/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <td width="40%">
