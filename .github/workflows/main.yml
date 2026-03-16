@@ -1,4 +1,4 @@
-name: Isometric-Contributions
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
@@ -9,16 +9,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Isometric Contributions
-        uses: jasonlong/isometric-contributions@v1
+      - name: Generate 3D graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: CENGTOKSOY
+          outputs: |
+            profile-3d-contrib/profile-night-view.svg
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add .
-          git commit -m "Update isometric contributions" || echo "No changes"
+          git commit -m "Update 3D contribution graph" || echo "No changes"
           git push
