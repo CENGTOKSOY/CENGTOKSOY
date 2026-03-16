@@ -127,15 +127,16 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </p>
 </td>
 
-![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
-
-
 <td width="40%">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWtla215c2Q5YzdrZzA5M2Vla2VldXV3NnR6OG52YnlsNzhxMDdlZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mZAL1GTRA8VnkRaU47/giphy.gif" width="200"/>
 </td>
 </tr>
 
 </table>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="800">
+</p>
 
 
 <p align="center">
