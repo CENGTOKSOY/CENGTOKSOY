@@ -127,7 +127,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </p>
 </td>
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
 
 
 <td width="40%">
