@@ -144,7 +144,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 <!-- GitHub Statistics -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CENGTOKSOY&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="451" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENGTOKSOY&theme=gotham&show_icons=true&hide_border=true&layout=compact" width="342" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliGaffarToksoy&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="451" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGaffarToksoy&theme=gotham&show_icons=true&hide_border=true&layout=compact" width="342" />
 </div>
 
 
@@ -155,7 +155,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 
 <p align="center">
   <img height="230" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzYzZ1cTgzcjU3c2ZydGxmbXBiajIyeGpwaGRtdmE2b2VvaXRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8Uyz68JpozWve/giphy.gif">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CENGTOKSOY&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AliGaffarToksoy&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
   <img height="150" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRib2x6ZWViZXBiZTF2M3V0NnQ0MGljNTQ5NXcxaTI5MDNwOGYxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e4dZcWPFtkhmKtmKIR/giphy.gif" style="transform: scaleX(-1);">
 </p>
 
