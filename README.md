@@ -15,7 +15,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </div>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djYwZjBwMTFsbDk0YmIyNjJxbDVsNXhxMmdsNTFtZjhzZzI0bWR5aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/YJ0fc1aqc1XiIY3IHp/giphy.gif" alt="Home_CENGTOKSOY" width="800" height="500">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djYwZjBwMTFsbDk0YmIyNjJxbDVsNXhxMmdsNTFtZjhzZzI0bWR5aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/YJ0fc1aqc1XiIY3IHp/giphy.gif" alt="Home_AliGaffarToksoy" width="800" height="500">
 </p>
 
 <p align="center">
@@ -24,8 +24,8 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 <img src="https://img.shields.io/badge/LinkedIn-Ali%20Toksoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/CENGTOKSOY">
-<img src="https://img.shields.io/badge/GitHub-CENGTOKSOY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/AliGaffarToksoy">
+<img src="https://img.shields.io/badge/GitHub-AliGaffarToksoy-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@toksoyaligaffar">
@@ -37,7 +37,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </a>
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/CENGTOKSOY)](https://github.com/CENGTOKSOY)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/AliGaffarToksoy)](https://github.com/AliGaffarToksoy)
 ![My GitHub Game](game.gif)
 
 <table>
@@ -135,7 +135,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </table>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnRyM2w3eGtxZnMxMWUzNGcwY2Y4Z3RwN2VkeGRybnlpbmMyZjV1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6IJobFNZtXbLeVH1os/giphy.gif" alt="Home_CENGTOKSOY" width="8000" height="550">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnRyM2w3eGtxZnMxMWUzNGcwY2Y4Z3RwN2VkeGRybnlpbmMyZjV1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6IJobFNZtXbLeVH1os/giphy.gif" alt="Home_AliGaffarToksoy" width="8000" height="550">
 </p>
 
 <p align="center">
