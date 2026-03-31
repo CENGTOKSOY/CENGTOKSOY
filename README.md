@@ -143,14 +143,12 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 </p>
 
 <!-- GitHub Statistics -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliGaffarToksoy&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="451" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGaffarToksoy&theme=gotham&show_icons=true&hide_border=true&layout=compact" width="342" />
-</div>
 
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
-
+<p align="center">
+  <img height="300" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25lMGU2cHpvNDA5aTRxOXh6bjQ0OXE0bG9qZjRmMDRhY2xlMW1tNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6qG4muR4f8arsenggF/giphy.gif">
+  <a href="https://git.io/streak-stats"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/AliGaffarToksoy?cardType=level-alternate&theme=gotham&fontFamily=&preferLogin=true" alt="GitHub Streak" /></a>
+  <img height="180" width="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHdvdWJ6MjZmY3dyZGh0cnJzYWNvNDQycnlnenljdXluN2cwamMzNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GJk1mvaIgBOeOWMuot/giphy.gif" style="transform: scaleX(-1);">
+</p>
 
 
 <p align="center">
