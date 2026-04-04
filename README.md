@@ -147,7 +147,7 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
 <p align="center">
   <img height="300" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25lMGU2cHpvNDA5aTRxOXh6bjQ0OXE0bG9qZjRmMDRhY2xlMW1tNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6qG4muR4f8arsenggF/giphy.gif">
   <a href="https://git.io/streak-stats"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/AliGaffarToksoy?cardType=level&theme=gotham&fontFamily=42dot%20Sans&preferLogin=true" alt="GitHub Streak" /></a>
-  <img height="180" width="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHdvdWJ6MjZmY3dyZGh0cnJzYWNvNDQycnlnenljdXluN2cwamMzNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GJk1mvaIgBOeOWMuot/giphy.gif" style="transform: scaleX(-1);">
+  <img height="180" width="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHFramt1ejNkZW55cXRwZGcwNGxkNXl0MzRqNmVpdjNvaTl0OXFsMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RUGMjKob3Kz42vRD4K/giphy.gif" style="transform: scaleX(-1);">
 </p>
 
 
